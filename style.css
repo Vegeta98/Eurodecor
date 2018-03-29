@@ -1,0 +1,22 @@
+.eFont {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    color: white;
+    padding-left:50px;
+    line-height: 60px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/f6/ae/b0/f6aeb0519d96b54f604315b27900fd4a.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: fixed;
+}
+
+#cabinet {
+ inline-size: 255px;
+ border-width: 2px;
+ border-color: black;
+ margin: auto;
+ font-family: 'Merienda One', cursive;
+}
