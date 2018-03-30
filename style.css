@@ -15,8 +15,9 @@ body {
 
 #cabinet {
  inline-size: 255px;
- border-width: 2px;
+ border-width: 4px;
  border-color: black;
  margin: auto;
  font-family: 'Merienda One', cursive;
+ background: transparent;
 }
